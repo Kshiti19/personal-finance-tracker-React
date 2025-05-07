@@ -5,16 +5,18 @@ A simple yet effective personal finance tracker built using React. Easily track 
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-## Getting Started
+## First Step: 
 
 Follow these steps to run the project locally:
 
 1. Clone the repository:
   git clone https://github.com/Kshiti19/personal-finance-tracker-react.git
+
   cd personal-finance-tracker-react
 
 2. Install dependencies:
-    npm install
+
+   npm install
    
 
 3. Start the development server:
@@ -23,7 +25,7 @@ Follow these steps to run the project locally:
 
    This app will be available at: [http://localhost:3000](http://localhost:3000)
 
----
+------------------------------------------------------------------------------------------------------
 
 # Project Structure
 
@@ -49,7 +51,7 @@ personal-finance-tracker-react/
 * 💸 Budgeting and goal-setting features
 * 🎨 Enhanced UI/UX design
 
-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 ## License
 
@@ -57,5 +59,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 -----------------------------------------------------------------------------------------------------
 
-#Author : **Kshitija Chindarkar**
+## Author : **Kshitija Chindarkar**
 
