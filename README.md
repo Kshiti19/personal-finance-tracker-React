@@ -1,49 +1,18 @@
+````markdown
 # 💰 Personal Finance Tracker (React)
 
-A simple and intuitive React application to manage and visualize your personal income and expenses.
+A simple yet effective personal finance tracker built using React. Easily track your expenses and income, manage your finances, and visualize where your money goes.
 
-----------------------------------------------------------------------------------------------------------
+---
 
-## ✨ Features
+## 🚀 Getting Started
 
-- ➕ **Add** income and expense transactions  
-- 📋 **View** a list of all transactions  
-- ❌ **Delete** individual transactions  
-- 📊 **Summary** dashboard:
-  - Total income
-  - Total expenses
-  - Current balance
-- 📈 **Visualizations**:
-  - Pie Chart: Income vs. Expenses
-  - Bar Chart: Monthly Income/Expense Breakdown
-- 🔍 **Filter Transactions By**:
-  - All Time
-  - Specific Month
-  - Specific Week
-- 📤 **Export** filtered transactions to *CSV*
-- 💾 Data persistence via browser’s *`localStorage`*
-
------------------------------------------------------------------------
-
-## 🛠️ Tech Stack
-
-- React – Frontend framework
-- Recharts – Data visualization (charts)
-- PapaParse – CSV export functionality
-
----------------------------------------------------------------------------------
-
-### 📦 Prerequisites
-
-- [Node.js](https://nodejs.org/) (v16+ recommended)
-- [Git](https://git-scm.com/)
-
-
-### 🔧 Installation & Running
+Follow these steps to run the project locally:
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/YOUR_USERNAME/personal-finance-tracker-react.git
+   git clone https://github.com/your-username/personal-finance-tracker-react.git
    cd personal-finance-tracker-react
 ````
 
@@ -59,12 +28,13 @@ A simple and intuitive React application to manage and visualize your personal i
    npm start
    ```
 
-   The app will be available at: [http://localhost:3000](http://localhost:3000)
+   Your app will be available at: [http://localhost:3000](http://localhost:3000)
 
-----------------------------------------------------------------------------------------------
+---
 
-### 🗂️ Project Structure
+## 🗂️ Project Structure
 
+```
 personal-finance-tracker-react/
 ├── public/                # Static assets
 ├── src/                   # Main application code
@@ -72,8 +42,9 @@ personal-finance-tracker-react/
 │   ├── App.js             # Root component, handles app state
 │   ├── index.js           # Entry point
 │   └── styles/            # CSS files for styling
+```
 
------------------------------------------------------------------------
+---
 
 ## 💡 Future Enhancements
 
@@ -85,11 +56,14 @@ personal-finance-tracker-react/
 * 💸 Budgeting and goal-setting features
 * 🎨 Enhanced UI/UX design
 
-------------------------------------------------------------------------------------------
+---
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-----------------------------------------------------------------------------------------------
 
-Author: Kshitija Chindarkar
+---
+
+## 👩‍💻 Author
+**Kshitija Chindarkar**
+
