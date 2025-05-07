@@ -1,38 +1,31 @@
-````markdown
-# 💰 Personal Finance Tracker (React)
+
+## 💰 Personal Finance Tracker (React)
 
 A simple yet effective personal finance tracker built using React. Easily track your expenses and income, manage your finances, and visualize where your money goes.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally:
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/personal-finance-tracker-react.git
-   cd personal-finance-tracker-react
-````
+  git clone https://github.com/Kshiti19/personal-finance-tracker-react.git
+  cd personal-finance-tracker-react
 
 2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
+    npm install
+   
 
 3. Start the development server:
 
-   ```bash
    npm start
-   ```
 
-   Your app will be available at: [http://localhost:3000](http://localhost:3000)
+   This app will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🗂️ Project Structure
+# Project Structure
 
 ```
 personal-finance-tracker-react/
@@ -44,9 +37,9 @@ personal-finance-tracker-react/
 │   └── styles/            # CSS files for styling
 ```
 
----
+--------------------------------------------------------------------------------------------------
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 * 🔐 User authentication
 * ☁️ Database integration (Firebase, Supabase, etc.)
@@ -56,14 +49,13 @@ personal-finance-tracker-react/
 * 💸 Budgeting and goal-setting features
 * 🎨 Enhanced UI/UX design
 
----
+----------------------------------------------------------------------------------
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
+-----------------------------------------------------------------------------------------------------
 
-## 👩‍💻 Author
-**Kshitija Chindarkar**
+#Author : **Kshitija Chindarkar**
 
